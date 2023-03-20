@@ -1,0 +1,25 @@
+.page-link {
+    align-items: center;
+    justify-content:center ;
+    display: flex;
+}
+.dji {
+  background-color:  #fd7e14;
+}
+.dji-1 {
+  background-color: #e3f2fd;
+}
+.dji-2 {
+  color: #fff;
+} 
+.dji-3 {
+  color: #fff;
+}
+.dji-4 {
+  color: #fff;
+}
+.dji-5 {
+  color: #fff;
+  font-size: 20px;
+  padding-bottom: -50px;
+}
